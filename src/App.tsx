@@ -80,7 +80,7 @@ const questions: Question[] = [
     id: 9,
     question: "Kaip vadinamas laikas kurį transporto priemonė užtrunka visiškai sustoti nuo stabdžio pedalo paspaudimo",
     options: ["Stabdymo kelias", "Stabdymo laikas", "Sustojimo kelias", "Sustojimo laikas", "Reakcijos laikas"],
-    correctAnswer: "Stabdymo klaikas"
+    correctAnswer: "Stabdymo laikas"
   },
   {
     id: 10,
